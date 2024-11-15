@@ -3,7 +3,6 @@ import openai
 import re
 import time
 import random
-import uuid
 
 from streamlit.components.v1 import html
 
